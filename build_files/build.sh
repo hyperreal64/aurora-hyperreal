@@ -17,7 +17,6 @@ systemctl enable prometheus-node-exporter.service
 systemctl disable bluetooth.service
 systemctl disable bolt.service
 systemctl disable cups.service
-systemctl disable wpa_supplicant.service
 systemctl disable zfs-mount.service
 systemctl disable zfs-share.service
 systemctl disable zfs-zed.service
